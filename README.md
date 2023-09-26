@@ -1,5 +1,11 @@
 # 💫 About Me:
-Merhaba! Ben, veri bilimine yeni adım atmış bir stajyerim. <br>Makine öğrenimi modelleri geliştirmeyi öğrenmeye başlayalı kısa bir süre oldu ve bu alanda heyecanlıyım. <br>Python konusundaki yetkinliğim sayesinde temel veri analizlerini ve model oluşturmayı öğrenmekteyim. <br>Ayrıca verilerden anlamlı içgörüler elde etmek için çeşitli sosyal araştırma yöntemlerini öğrenmeye çalışıyorum. <br>Veri bilimindeki son gelişmeleri yakından takip ederek, kendimi sürekli olarak geliştirmeye odaklanıyorum. <br>Verilerin içindeki kalıpları keşfetmek ve bu kalıpları kullanarak gerçek dünya sorunlarına veri odaklı çözümler üretmek benim için oldukça heyecan verici. <br>Yeni bir başlangıç yapmanın verdiği tutku ve istekle, bu alanı daha derinlemesine keşfetmeye ve öğrenmeye devam ediyorum.
+Merhaba! Ben, veri bilimine yeni bir yolculuğa başlamış bir stajyerim. Makine öğrenimi modellerinin büyülü dünyasına adım atmanın verdiği heyecanı her gün hissediyorum. Python'daki yeteneklerim sayesinde, temel veri analizi ve model oluşturma becerilerini hızla öğreniyorum.
+
+Ancak sadece kod yazmakla yetinmiyorum. Aynı zamanda verilerin derinliklerine inmeye ve onları anlamlı içgörülere dönüştürmek için sosyal araştırma yöntemlerini öğrenmeye de büyük bir ilgi duyuyorum.
+
+Veri bilimindeki sürekli gelişmeleri yakından takip ediyor ve bu alandaki en son yenilikleri öğrenmek için elimden gelenin en iyisini yapıyorum. Verilerin içindeki gizli kalıpları keşfetmek ve bu kalıpları gerçek dünya sorunlarına veri odaklı çözümler üretmek benim için sadece bir görev değil, aynı zamanda büyük bir heyecan kaynağı.
+
+Yeni bir başlangıç yapmanın getirdiği tutku ve istekle, veri biliminin bu büyülü dünyasını daha derinlemesine keşfetmeye ve öğrenmeye devam ediyorum. Bu yolculuğun sadece başlangıcı ve daha büyük keşiflere doğru ilerliyoruz.
 
 
 ## 🌐 Socials:
