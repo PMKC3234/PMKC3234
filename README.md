@@ -1,11 +1,7 @@
 # 💫 About Me:
-Merhaba! Ben, veri bilimine yeni bir yolculuğa başlamış bir stajyerim. Makine öğrenimi modellerinin büyülü dünyasına adım atmanın verdiği heyecanı her gün hissediyorum. Python'daki yeteneklerim sayesinde, temel veri analizi ve model oluşturma becerilerini hızla öğreniyorum.
+Merhaba! Ben, veri bilimi alanına yeni adım atan bir stajyerim. Python gibi araçlarla veri analizi ve makine öğrenimi modelleri oluşturma konusunda hızla ilerliyorum. Verilerin derinliklerine inmeye ve anlamlı içgörüler elde etmeye büyük bir ilgi duyuyorum. Sürekli gelişen bu alandaki yenilikleri yakından takip ediyor ve veri odaklı çözümler üretmeye motive oluyorum. Veri bilimi, gizli kalıpları keşfetme ve gerçek dünya sorunlarına veriyle destekli çözümler sunma fırsatı sağlıyor. Bu tutkuyla, veri biliminin büyülü dünyasını keşfetmeye devam ediyorum.
 
-Ancak sadece kod yazmakla yetinmiyorum. Aynı zamanda verilerin derinliklerine inmeye ve onları anlamlı içgörülere dönüştürmek için sosyal araştırma yöntemlerini öğrenmeye de büyük bir ilgi duyuyorum.
-
-Veri bilimindeki sürekli gelişmeleri yakından takip ediyor ve bu alandaki en son yenilikleri öğrenmek için elimden gelenin en iyisini yapıyorum. Verilerin içindeki gizli kalıpları keşfetmek ve bu kalıpları gerçek dünya sorunlarına veri odaklı çözümler üretmek benim için sadece bir görev değil, aynı zamanda büyük bir heyecan kaynağı.
-
-Yeni bir başlangıç yapmanın getirdiği tutku ve istekle, veri biliminin bu büyülü dünyasını daha derinlemesine keşfetmeye ve öğrenmeye devam ediyorum. Bu yolculuğun sadece başlangıcı ve daha büyük keşiflere doğru ilerliyoruz.
+Mobil geliştirme alanında  Flutter ile mobil uygulamalar geliştirmekteyim. Kullanıcı dostu arayüzler oluşturmayı ve veri odaklı çözümleri mobil platformlara entegre etmeyi seviyorum. Flutter'ın sunduğu esneklik ve performans ile projelerimi hızlı ve etkili bir şekilde hayata geçirebiliyorum. Mobil teknolojinin hızla evrildiği bu dönemde, Flutter ile geliştirme yapmak heyecan verici ve geleceğe yönelik bir yolculuk sunuyor.
 
 
 ## 🌐 Socials:
